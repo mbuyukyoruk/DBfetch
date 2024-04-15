@@ -16,6 +16,16 @@ DBfetch dependencies:
 	Bio module and SeqIO available in this package      refer to https://biopython.org/wiki/Download
 	tqdm                                                refer to https://pypi.org/project/tqdm/
 
+List example:
+------------
+List file should contain accessions that separated by new line "\n".
+
+	CP000117.1
+	CH902601.1
+	CP000469.1
+	AAVU01000016.1
+	ABCQ01000037.1
+
 Input Paramaters (REQUIRED):
 ----------------------------
 	-i/--input		DB              Specify a DB file to process (i.e., /home/shared/amino-acid/bac_arc_db_01022023/bac_arc_db_01022023_prodigal.faa).

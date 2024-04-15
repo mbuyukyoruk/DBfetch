@@ -13,8 +13,10 @@ Syntax:
         python DBfetch.py -i DB -l demo_sub_list.txt -o out.fasta
 
 DBfetch dependencies:
-	Bio module and SeqIO available in this package      refer to https://biopython.org/wiki/Download
-	tqdm                                                refer to https://pypi.org/project/tqdm/
+
+Bio module and SeqIO available in this package      refer to https://biopython.org/wiki/Download
+
+tqdm                                                refer to https://pypi.org/project/tqdm/
 
 List example:
 ------------
